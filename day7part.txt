@@ -1,0 +1,145 @@
+shiny gold name shiny gold ,
+ contains [' 4 wavy green ' (4*10), ' 2 mirrored teal ', ' 4 dark tomato ', ' 2 faded beige ']
+
+name wavy green , Score = 2 * 5 = 10
+ contains [' 2 light violet ']
+name mirrored teal ,
+ contains [' 4 dull yellow '(4*3), ' 2 faded black '(2*64), ' 3 pale blue ', ' 5 wavy coral '(5*1)]
+name dark tomato ,
+ contains [' 3 posh maroon ', ' 5 dotted purple ', ' 1 shiny violet ', ' 2 drab silver ']
+name faded beige ,
+ contains [' 5 posh turquoise ', ' 5 vibrant tan ', ' 2 posh yellow ', ' 4 mirrored indigo ']
+
+
+
+name light violet , -- Score = 3 * 1 + 2 * 1 = 5
+ contains [' 3 dim crimson ', ' 2 drab brown ']
+name dull yellow , (3)
+ contains [' 3 drab brown ' (3*1)]
+name faded black ,(48 + 16 = 64)
+ contains [' 4 striped beige '(4*12), ' 4 muted blue '(4*4)]
+name pale blue ,
+ contains [' 4 faded plum ', ' 5 wavy green '(5*10), ' 3 shiny violet ', ' 2 faded black '(2*64)]
+name striped beige ,(12)
+ contains [' 4 dull yellow '(4*3)]
+name muted blue ,(8)
+ contains [' 3 pale lime '(4*1), ' 4 dim crimson '(4*1)]
+name dim crimson , -- Score 1
+ contains [' no other ']
+name drab brown ,(1)
+ contains [' no other ']
+name pale lime ,(1)
+ contains [' no other ']
+name wavy coral , (1)
+ contains [' no other ']
+name dim lavender ,(2)
+ contains [' 2 posh yellow '(2*1)]
+name striped orange ,(7)
+ contains [' 4 dim crimson '(4*1), ' 2 wavy coral '(2*1), ' 1 dim plum '(1)]
+name faded red , (130)
+ contains [' 5 dim lavender '(5*2), ' 4 bright plum '(4*23), ' 4 striped orange '(4*7)]
+name bright plum , (23)
+ contains [' 3 striped orange '(3*7), ' 2 pale lime ' (2*1)]
+
+name posh maroon ,
+ contains [' no other ']
+name dotted purple ,
+ contains [' 2 muted yellow ']
+name shiny violet ,
+ contains [' 4 dull yellow '(4*3), ' 1 faded red ', ' 3 pale lime '(3*1), ' 4 drab brown ' (4*1)]
+name drab silver ,
+ contains [' 2 light turquoise ', ' 3 mirrored indigo ', ' 4 vibrant orange ']
+name posh turquoise ,
+ contains [' 2 dim lavender ', ' 1 muted yellow ', ' 4 bright plum ']
+name vibrant tan ,
+ contains [' no other ']
+name posh yellow ,
+ contains [' no other ']
+name mirrored indigo ,
+ contains [' 5 posh yellow ', ' 5 faded red ']
+
+
+name faded plum ,
+ contains [' 5 posh beige ', ' 2 light turquoise ', ' 5 vibrant orange ']
+
+name shiny violet ,
+ contains [' 4 dull yellow ', ' 1 faded red ', ' 3 pale lime ', ' 4 drab brown ']
+name faded black ,
+ contains [' 4 striped beige ', ' 4 muted blue ']
+name muted yellow ,
+ contains [' 4 dim crimson ', ' 2 wavy gray ']
+name dull yellow ,
+ contains [' 3 drab brown ']
+
+
+name drab brown ,
+ contains [' no other ']
+name light turquoise ,
+ contains [' 4 dim lavender ']
+name mirrored indigo ,
+ contains [' 5 posh yellow ', ' 5 faded red ']
+name vibrant orange ,
+ contains [' no other ']
+
+name muted yellow ,
+ contains [' 4 dim crimson ', ' 2 wavy gray ']
+
+name posh yellow , (1)
+ contains [' no other ']
+name faded red ,
+ contains [' 5 dim lavender ', ' 4 bright plum ', ' 4 striped orange ']
+name dull yellow ,
+ contains [' 3 drab brown ']
+name pale lime , (1)
+ contains [' no other ']
+name dim crimson ,
+ contains [' no other ']
+name posh beige ,
+ contains [' 3 posh yellow ', ' 1 dull yellow ', ' 2 posh maroon ']
+name light turquoise ,
+ contains [' 4 dim lavender ']
+name vibrant orange ,
+ contains [' no other ']
+name light violet ,
+ contains [' 3 dim crimson ', ' 2 drab brown ']
+name dull yellow ,
+ contains [' 3 drab brown ']
+
+
+
+name striped beige ,
+ contains [' 4 dull yellow ']
+name muted blue ,
+ contains [' 3 pale lime ', ' 4 dim crimson ']
+name dim crimson ,
+ contains [' no other ']
+name wavy gray ,
+ contains [' no other ']
+
+name dim lavender ,
+ contains [' 2 posh yellow ']
+name bright plum ,
+ contains [' 3 striped orange ', ' 2 pale lime ']
+
+name dim lavender ,
+ contains [' 2 posh yellow ']
+name posh yellow ,
+ contains [' no other ']
+name faded red ,
+ contains [' 5 dim lavender ', ' 4 bright plum ', ' 4 striped orange ']
+name posh yellow ,
+ contains [' no other ']
+name dim crimson ,
+ contains [' no other ']
+name wavy gray ,
+ contains [' no other ']
+name striped orange ,
+ contains [' 4 dim crimson ', ' 2 wavy coral ', ' 1 dim plum ']
+name pale lime ,
+ contains [' no other ']
+name dim lavender ,
+ contains [' 2 posh yellow ']
+name striped orange ,
+ contains [' 4 dim crimson ', ' 2 wavy coral ', ' 1 dim plum ']
+name dim plum ,
+ contains [' no other ']
